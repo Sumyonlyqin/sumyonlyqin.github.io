@@ -24,7 +24,7 @@ window.addEventListener('resize', adjustImageRounding);
 window.addEventListener('load', adjustImageRounding);
 
 async function loadChangelog(assetType, divId) {
-  const response = await fetch('https://sumyonlyqin.github.io/webConfig.json');
+  const response = await fetch('https://sumyonlyqin.github.io/unity_asset/webConfig.json');
   const data = await response.json();
   const asset = data.assets.find(asset => asset.assetType === assetType);
 
