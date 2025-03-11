@@ -1,0 +1,21 @@
+{
+  "assets":[
+    {
+      "name":"Texture Rule for Unity",
+      "assetType":1,
+      "oldVersionDaysCount":1,
+      "developerMessage":{
+        "text":"Texture Rule - Automatically Set Texture Size, Compression, and Format with Config Rules.",
+        "type":1
+      },
+      "versions":[
+        {
+          "version":"1.0.0",
+          "versionType":1,
+          "releaseDate":"March 11, 2025",
+          "description":"First release."
+        }
+      ]
+    }
+  ]
+}
